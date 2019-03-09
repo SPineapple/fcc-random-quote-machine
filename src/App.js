@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-// import Button from '../Button/Button';
-//import './App.css';
 import {random} from 'lodash';
 import QuoteMachine from './components/QuoteMachine';
 import 'typeface-roboto';
